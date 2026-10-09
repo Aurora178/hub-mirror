@@ -93,3 +93,8 @@
 
 ![提交 Issue](https://github.com/user-attachments/assets/c0357521-6dd0-4f13-8a99-bccdf1314ab8)
 
+
+
+目前使用registry.cn-hangzhou.aliyuncs.com 有问题，直接采用的阿里云仓库管理下的访问凭证里面提供的仓库地址/命名空间
+<img width="2220" height="663" alt="image" src="https://github.com/user-attachments/assets/6a64bc99-9288-406c-9925-ba4e1c79aeed" />
+
